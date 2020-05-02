@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/reactcorona/static/css/main.da09a333.chunk.css",
+    "main.js": "/reactcorona/static/js/main.96e9471b.chunk.js",
+    "main.js.map": "/reactcorona/static/js/main.96e9471b.chunk.js.map",
+    "runtime-main.js": "/reactcorona/static/js/runtime-main.0642eac0.js",
+    "runtime-main.js.map": "/reactcorona/static/js/runtime-main.0642eac0.js.map",
+    "static/js/2.4880063e.chunk.js": "/reactcorona/static/js/2.4880063e.chunk.js",
+    "static/js/2.4880063e.chunk.js.map": "/reactcorona/static/js/2.4880063e.chunk.js.map",
+    "index.html": "/reactcorona/index.html",
+    "precache-manifest.f6d7a0169486483b90cfe28b02971a0d.js": "/reactcorona/precache-manifest.f6d7a0169486483b90cfe28b02971a0d.js",
+    "service-worker.js": "/reactcorona/service-worker.js",
+    "static/css/main.da09a333.chunk.css.map": "/reactcorona/static/css/main.da09a333.chunk.css.map",
+    "static/js/2.4880063e.chunk.js.LICENSE.txt": "/reactcorona/static/js/2.4880063e.chunk.js.LICENSE.txt",
+    "static/media/SARS-CoV-2_without_background.png": "/reactcorona/static/media/SARS-CoV-2_without_background.bc71574b.png",
+    "static/media/image.png": "/reactcorona/static/media/image.d7265326.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0642eac0.js",
+    "static/js/2.4880063e.chunk.js",
+    "static/css/main.da09a333.chunk.css",
+    "static/js/main.96e9471b.chunk.js"
+  ]
+}
